@@ -2,7 +2,7 @@ permalink: '/:year:month:day/:title'
 url: ''
 baseurl: ''
 name: Anoneks.xyz
-description: Your description here
+description: meow
 google_verification: null
 include:
   - .htaccess
